@@ -1,0 +1,43 @@
+.ammychayen {
+    background-color: pink;
+}
+
+.slide-image {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 15% 50%;
+}
+
+.smallslide-image {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 5% 80%;
+}
+.productnamestyle {
+    color: rebeccapurple;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+body{
+    font-family: 'Prompt', sans-serif;
+}
+
+.productprice {
+    color: rgb(255, 0, 128);
+    font-size: 18px;
+    text-align: center;
+
+
+}
+
+
+.productlist {
+    color: rgb(255, 0, 119);
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px; 
+}
